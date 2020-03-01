@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    text-align: center;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-image: url(bali-.jpg);
+    background-color: rgba(0, 0, 0, 0.4);
+    background-blend-mode: darken;
+}
+
+#icon{
+    background-blend-mode: luminosity;
+}
+
+#icon img{
+    width: 150px;
+    height: 100px;
+    margin-top: 5%;
+    margin-bottom: 30px;
+}
+
+.konten{
+    position: relative;
+    padding: 0px;
+    margin: 15px;
+    color: whitesmoke;
+    font-size: 45px;    
+}
+
+p{
+    color: white;
+    margin: 0px;
+}
+
+.orange{
+    color: gold;
+}
+
+.button{
+    position: relative;
+    padding: 40px;
+    margin: 40px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.border-gold{
+    color: #ffd700;
+    border: 1px solid #ffd700;
+    border-radius: 5px;
+    padding: 13px 70px 13px 70px;
+}
+
+.bg-gold{
+    background-color: #ffd700;
+    color: #fff;
+    box-shadow: 0 0 7px 0px #ffd700;
+    border-radius: 5px;
+    padding: 13px 70px 13px 70px;
+    margin-left: 15px;
+}
+
